@@ -139,7 +139,7 @@ Please read [Code of Conduct](CODE-OF-CONDUCT.md) and [Contributing Guidelines](
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/evrone/rails-settings-ui/tags). 
 
 ## Changelog
 
@@ -149,7 +149,7 @@ The changelog is [here](CHANGELOG.md).
 
 * [Andrey Morskov](https://github.com/accessd)
 
-See also the list of [contributors](contributors) who participated in this project.
+See also the list of [contributors](https://github.com/evrone/rails-settings-ui/contributors) who participated in this project.
 
 ## License
 
